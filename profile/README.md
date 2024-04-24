@@ -3,8 +3,8 @@
 </p>
 
 # RACCOON LARGE ACTION-BASED MODEL
-## Transforming App Interactions with Action-Based AI
-Transform your app with Raccoon's low-code, analytics-driven AI — a seamless blend of enhanced navigation and personalized automations, all integrated without modifying your existing UI.
+## AI that can take actions and simplify apps
+Enhance your app with Raccoon's low-code integration of the Large Action Model (LAM), effortlessly automating actions to improve user experience, increase feature adoption and get advanced insights on user journeys.
 
 ### [Join Our Alpha Waitlist](https://www.flyingraccoon.tech/)
 We are launching our alpha soon. Join our waitlist to be at the forefront of AI-driven app innovation.
