@@ -7,7 +7,7 @@
 Enhance your app with Raccoon's low-code integration of the Large Action Model (LAM), effortlessly automating actions to improve user experience, increase feature adoption and get advanced insights on user journeys.
 
 ### [Join Our Alpha Waitlist](https://www.flyingraccoon.tech/)
-We are launching our alpha soon. Join our waitlist to be at the forefront of AI-driven app innovation.
+Our LAM powered assistant, Rocket Raccoon, launches in alpha soon. If you are an individual and want to try out, sign up for the waitlist or if you are a business, request a demo and start today.
 
 ## Groundbreaking Features that drive success
 
@@ -40,4 +40,4 @@ Raccoon can intelligently offer additional services in a natural manner, on cert
 
 ---
 
-Raccoon Large Action-Based Model, Raccoon Dashboard, Rocket Raccoon and more.
+Raccoon Large Action-Based Model, Rocket Raccoon and more.
