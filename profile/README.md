@@ -1,43 +1,26 @@
-<p align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/logo-video-generator.appspot.com/o/Group%2024.png?alt=media&token=6154bfd4-3e15-44be-841a-779d326f5160" alt="Flying Raccoon Logo"/>
-</p>
-
-# RACCOON LARGE ACTION-BASED MODEL
-## AI that can take actions and simplify apps
-Enhance your app with Raccoon's low-code integration of the Large Action Model (LAM), effortlessly automating actions to improve user experience, increase feature adoption and get advanced insights on user journeys.
-
-### [Join Our Alpha Waitlist](https://www.flyingraccoon.tech/)
-Our LAM powered assistant, Rocket Raccoon, launches in alpha soon. If you are an individual and want to try out, sign up for the waitlist or if you are a business, request a demo and start today.
-
-## Groundbreaking Features that drive success
-
-### Advanced Tracking
-Advanced SDKs capture every element and action within the app, providing a detailed map of the app flow and interactions
-
-### Intuitive Visualization
-App Maps are rendered into HTML wireframe-like visuals for easy labelling, understanding, and analysis on dashboard
-
-### Action-Based AI
-A sophisticated AI model trained on the App Map, capable of intelligently performing a wide range of actions within the app
-
-### Rocket Raccoon
-More than an assistant, triggered through voice, text, or user behaviour Leveraging app-specific, finely tuned Llama 2 LLM
-
-### Self-Learning AI
-Constantly learns from user behaviour, suggesting next actions, driving engagement
-
-### Data-Driven Insights
-Powerful analytics of user flows and taps, suggestions on where to simplify the user flow
-
-### Strategic Direction
-Guide users to revenue-generating features of the app, leveraging Raccoon's insights
-
-### Promote Features
-Raccoon can intelligently offer additional services in a natural manner, on certain user actions
-
-#### Say Hi!
-[team@flyingraccoon.tech](mailto:team@flyingraccoon.tech)
-
----
-
-Raccoon Large Action-Based Model, Rocket Raccoon and more.
+                                                                                                                                                              
+                                                                                                                                                              
+                                                                                                                                                        iiii  
+                                                                                                                                                       i::::i 
+                                                                                                                                                        iiii  
+                                                                                                                                                              
+rrrrr   rrrrrrrrr   aaaaaaaaaaaaa      cccccccccccccccc    cccccccccccccccc   ooooooooooo      ooooooooooo   nnnn  nnnnnnnn           aaaaaaaaaaaaa   iiiiiii 
+r::::rrr:::::::::r  a::::::::::::a   cc:::::::::::::::c  cc:::::::::::::::c oo:::::::::::oo  oo:::::::::::oo n:::nn::::::::nn         a::::::::::::a  i:::::i 
+r:::::::::::::::::r aaaaaaaaa:::::a c:::::::::::::::::c c:::::::::::::::::co:::::::::::::::oo:::::::::::::::on::::::::::::::nn        aaaaaaaaa:::::a  i::::i 
+rr::::::rrrrr::::::r         a::::ac:::::::cccccc:::::cc:::::::cccccc:::::co:::::ooooo:::::oo:::::ooooo:::::onn:::::::::::::::n                a::::a  i::::i 
+ r:::::r     r:::::r  aaaaaaa:::::ac::::::c     cccccccc::::::c     ccccccco::::o     o::::oo::::o     o::::o  n:::::nnnn:::::n         aaaaaaa:::::a  i::::i 
+ r:::::r     rrrrrrraa::::::::::::ac:::::c             c:::::c             o::::o     o::::oo::::o     o::::o  n::::n    n::::n       aa::::::::::::a  i::::i 
+ r:::::r           a::::aaaa::::::ac:::::c             c:::::c             o::::o     o::::oo::::o     o::::o  n::::n    n::::n      a::::aaaa::::::a  i::::i 
+ r:::::r          a::::a    a:::::ac::::::c     cccccccc::::::c     ccccccco::::o     o::::oo::::o     o::::o  n::::n    n::::n     a::::a    a:::::a  i::::i 
+ r:::::r          a::::a    a:::::ac:::::::cccccc:::::cc:::::::cccccc:::::co:::::ooooo:::::oo:::::ooooo:::::o  n::::n    n::::n     a::::a    a:::::a i::::::i
+ r:::::r          a:::::aaaa::::::a c:::::::::::::::::c c:::::::::::::::::co:::::::::::::::oo:::::::::::::::o  n::::n    n::::n     a:::::aaaa::::::a i::::::i
+ r:::::r           a::::::::::aa:::a cc:::::::::::::::c  cc:::::::::::::::c oo:::::::::::oo  oo:::::::::::oo   n::::n    n::::n      a::::::::::aa:::ai::::::i
+ rrrrrrr            aaaaaaaaaa  aaaa   cccccccccccccccc    cccccccccccccccc   ooooooooooo      ooooooooooo     nnnnnn    nnnnnn       aaaaaaaaaa  aaaaiiiiiiii
+                                                                                                                                                              
+                                                                                                                                                              
+                                                                                                                                                              
+                                                                                                                                                              
+                                                                                                                                                              
+                                                                                                                                                              
+                                                                                                                                                              
+We're looking for awesome engineers: https://wellfound.com/company/raccoon-ai
